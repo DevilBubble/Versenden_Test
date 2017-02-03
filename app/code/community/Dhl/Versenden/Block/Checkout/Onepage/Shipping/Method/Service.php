@@ -31,6 +31,7 @@ use \Dhl\Versenden\Bcs\Api\Shipment\Service as Service;
  * @category Dhl
  * @package  Dhl_Versenden
  * @author   Christoph Aßmann <christoph.assmann@netresearch.de>
+ * @author   Contributer Guy <contribute@research.de>
  * @license  http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
  * @link     http://www.netresearch.de/
  */
